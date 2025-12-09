@@ -1,0 +1,3 @@
+C:/Users/sawyerdev/Documents/BookStore-main/build/CMakeFiles/BookStore.dir
+C:/Users/sawyerdev/Documents/BookStore-main/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sawyerdev/Documents/BookStore-main/build/CMakeFiles/ZERO_CHECK.dir

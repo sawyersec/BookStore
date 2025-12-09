@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "BookStore.dir\\Release\\Magazine.obj",
+            "outputs": [
+                "BookStore.dir\\Release\\"
+            ],
+            "requires": []
+        }
+    ]
+}

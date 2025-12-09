@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sawyerdev\Documents\BookStore-main\build\CMakeFiles\3f18ca434c3479c41a988e286b1812c8\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A5595B1A-C32D-3A8B-8AA3-03C5DECB431D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
